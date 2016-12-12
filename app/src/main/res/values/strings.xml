@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rxjava操作符</string>
+    <string name="btn1">rxjava流程</string>
+    <string name="btn2">线程调度</string>
+    <string name="btn3">操作符-map</string>
+    <string name="btn4">操作符-flatmap</string>
+    <string name="btn5">操作符-merge</string>
+    <string name="btn6">操作符-binding</string>
+    <string name="btn7">操作符-fliter</string>
+    <string name="btn8">操作符-take</string>
+    <string name="btn9">操作符-interval</string>
+    <string name="btn10">操作符-tosortedlist</string>
+    <string name="btn11">操作符-connect</string>
+    <string name="btn12">操作符-timestamp</string>
+    <string name="rxbinding_tips">rxbinding 就是在安卓平台对view实现链接式处理</string>
+</resources>
